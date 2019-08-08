@@ -12,6 +12,9 @@
     "type": "git",
     "url": "https://github.com/TradingPal/react-native-highcharts"
   },
+  "dependencies": {
+    "react-native-webview": "6.8.0"
+  },
   "keywords": [
     "react-native",
     "react-component",
